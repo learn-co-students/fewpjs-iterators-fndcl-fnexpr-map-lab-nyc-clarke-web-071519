@@ -20,8 +20,3 @@ function titleCase(str) {
 function titleCased() { 
   return tutorials.map(tutorial => titleCase(tutorial));
 }
-
-
-// const titleCased = () => {
-//   return tutorials
-// }
